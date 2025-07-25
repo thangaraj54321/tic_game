@@ -12,7 +12,7 @@ After
 3.git branch  //main or master
 4.git branch -M main //branch name
 5.git push origin main
-
+ 
 
 regular
 
