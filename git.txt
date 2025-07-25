@@ -1,0 +1,21 @@
+Go to the github and create the new repo
+
+Terminal: 
+For the first time
+1.git init
+2.git remote add origin https://github/username/reponame
+
+After
+
+1.git add . //add all files
+2.git commit -m "first commit"
+3.git branch  //main or master
+4.git branch -M main //branch name
+5.git push origin main
+
+
+regular
+
+1.git add .
+2.git commit -m "new commit"
+3.git push origin main
