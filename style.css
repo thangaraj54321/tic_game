@@ -37,7 +37,7 @@ body{
 .turn-container .turn-box{
     border: 3px solid #000;
     font-size: 1.6rem;
-    font-weight: 700;
+    font-weight: 800;
 
 }
 .turn-container .turn-box:nth-child(even)
