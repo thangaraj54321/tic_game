@@ -74,7 +74,7 @@ body{
      
 }
 .box:hover{
-    background-color: #FF2E63;
+    background-color: red;
 }
 #play-again{
     background-color: #FF2E63;
